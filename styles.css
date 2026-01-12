@@ -4,8 +4,8 @@
 @font-face { font-family:"Liberation Serif-Bold"; src: url(LiberationSerif-Bold.ttf);}
 p { margin-bottom: 0.25cm; line-height: 115%; background: transparent; page-break-before: auto; font-family: "Liberation Serif"}
 blockquote {margin-left:0cm;  margin-top: 0cm; margin-bottom: 0.25cm; color: #666666; background: transparent;line-height:115%; font-family: "Liberation Serif-Italics"}
-h2 { margin-top: 0cm; margin-bottom: 0cm; background: transparent; page-break-after: avoid;font-size: 12pt; font-family: "Liberation Serif-Bold"}
-p.hebrew-western { line-height: 0.48cm; margin-top: 0cm; margin-bottom: 0cm; font-family: "Taamey David CLM", sans-serif ;line-height:115%; text-align:right}
+h2 { margin-top: 1cm; margin-bottom: 0cm; background: transparent; page-break-after: avoid;font-size: 12pt; font-family: "Liberation Serif-Bold"}
+p.hebrew-western {margin-top: 0cm; margin-bottom: 0cm; font-family: "Taamey David CLM", sans-serif ;line-height:115%; text-align:right}
 h3 { margin-top: 0cm; margin-bottom: 0cm; color: #158466; text-align: center; background: transparent; page-break-before: auto; page-break-after: avoid ; font-weight: bold; font-size: 12pt; font-family: "Liberation Serif-Bold", serif}
 p.transliteration { margin-top: 0cm; margin-bottom: 0cm }
 blockquote.notes-western { color: #000000; font-family: "Liberation Serif", serif; font-size: 9pt; margin-bottom: 0.2cm; font-style: normal }
